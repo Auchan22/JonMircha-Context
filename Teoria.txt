@@ -1,0 +1,3 @@
+  Context es una API de React que nos permite tener un estado global para ciertos datos que queremos tener a lo largo de todo el "arbol" de componentes. Utilizado para almacenar datos como el idioma, theme, etc.
+  Se debe utilizar con moderación, ya que provoca que la reutilizacion de los componentes cada vez sea mas difícil.
+  
